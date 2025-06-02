@@ -1,0 +1,3 @@
+https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/middlesuperoutputareamidyearpopulationestimates
+https://geoportal.statistics.gov.uk/datasets/ons::middle-layer-super-output-areas-december-2021-boundaries-ew-bfc-v7-2/about
+https://stackoverflow.com/questions/29545704/fast-haversine-approximation-python-pandas
